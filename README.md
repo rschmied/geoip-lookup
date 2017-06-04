@@ -17,7 +17,7 @@ To reload / or unload replace `load` with `reload` or `unload`, respectively.
 # Using
 Use `/geoip <username>` in the server context as you'd use `/whois`. In fact, using `/whois` produces also a location line when the plugin is loaded. In a channel window, the `/geoip <username>` prints the same same line as if the user just joined. The latter use is useful for users that are already in the channel and where a lookup is desired.
 
-#Links and Pages
+# Links and Pages
 * [XChat Python Plugin](http://xchat.org/docs/xchatpython.html)
 * [GeoIP / MaxMind Python Binding documentation](https://github.com/maxmind/geoip-api-python/blob/master/examples/country.py)
 * [XChat scripting documentation](http://xchatdata.net/Scripting)
